@@ -3,17 +3,43 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>iShare</title>
+
+    <!-- SEO Title & Description -->
+    <title>iShare – Free Cross‑Platform File Transfer App</title>
+    <meta name="description" content="Download iShare, a secure cross‑platform file transfer app for Windows, macOS, and Linux. Fast LAN sharing with drag‑and‑drop simplicity." />
+    <meta name="keywords" content="iShare, file transfer, LAN sharing, cross-platform, Windows, macOS, Linux, drag and drop, secure file sharing" />
+    <meta name="author" content="IsraelEdwards Acquah" />
+
+    <!-- Open Graph (Facebook, LinkedIn) -->
+    <meta property="og:title" content="iShare – Free Cross‑Platform File Transfer App" />
+    <meta property="og:description" content="Fast, secure, and reliable file transfers across Windows, macOS, and Linux. Download iShare today." />
+    <meta property="og:image" content="/images/Screenshot 2026-02-17 124725.png" />
+    <meta property="og:url" content="https://ishear.netlify.app" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="iShare – Free Cross‑Platform File Transfer App" />
+    <meta name="twitter:description" content="Fast, secure, and reliable file transfers across Windows, macOS, and Linux. Download iShare today." />
+    <meta name="twitter:image" content="/images/Screenshot 2026-02-17 124725.png" />
+
+    <!-- Base & Styles -->
     <base href="/" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Adsterra Ads -->
     <script type="text/javascript" src="//adsterra.com/js/banner.js"></script>
+
+    <!-- PWA Manifest & Icons -->
     <link href="manifest.webmanifest" rel="manifest" />
     <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
     <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
 </head>
 <body>
     <div id="app">Loading...</div>
+
+    <!-- Blazor Framework -->
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
 </body>

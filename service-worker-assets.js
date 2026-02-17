@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "RBckyT90",
+  "version": "JIWt0Z1L",
   "assets": [
     {
       "hash": "sha256-Z+EyGMcLGd83rR84Q77GYPOwvE4m9y4qg6hQFu9/lmg=",
@@ -198,12 +198,20 @@ self.assetsManifest = {
       "url": "images/iShare.ico"
     },
     {
-      "hash": "sha256-m5MC4RLe950DPMG2m4tHrC53dse9Te+cA0LWsqrgJQM=",
+      "hash": "sha256-galHNW43MppGgEtBOZjV/Nww4fewM8o5MCSkiHXk++U=",
       "url": "index.html"
     },
     {
       "hash": "sha256-s1+lRYJ3FvQmxdXIqto5gS4YyCKGAceLVfbNz3b6VjI=",
       "url": "manifest.webmanifest"
+    },
+    {
+      "hash": "sha256-usk6zWfwTldUNcg54Oh1zb0w4p0WK8YhUL+l+mUfySo=",
+      "url": "robots.txt"
+    },
+    {
+      "hash": "sha256-tANWRGM1K9tPgAGbb8SieCwLc1nd/X6sgyJaIZgAyeQ=",
+      "url": "sitemap.xml"
     }
   ]
 };
