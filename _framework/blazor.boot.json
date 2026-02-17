@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "iShare",
   "resources": {
-    "hash": "sha256-1B49ymKINsby2Q/ib+5293bbnUrflgwCjwcCZdy6rzU=",
+    "hash": "sha256-6d0lyTt4Uol3tAOUwqOc2uAvadOOJp/POvUZVtu6230=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-2i44rw0w4s7NM66Uq7RTG6s21jbKfy3bOb5EvC7+Lg8="
     },
@@ -47,7 +47,7 @@
       "System.Text.Json.wasm": "sha256-OcOFHwNFFSa7XKg2flxQxYkz9h8jq3zgYV/Hvyw4+WE=",
       "System.Text.RegularExpressions.wasm": "sha256-EBNNP57+VS/OjAuJHOY1mCfaJCJQYORnhF3/w7wP5kI=",
       "System.Private.CoreLib.wasm": "sha256-aU5F/1/vRp6K7IKvo5ljOKPdBCbNsPnf/mVCXs3QmmE=",
-      "iShare.wasm": "sha256-u/siTD6B3h2aWewQs0jrz90PmcRgUnLg17PfL6kPB+o="
+      "iShare.wasm": "sha256-0DV8g/QRbNb5j32/x7673caf29fk2/+Z8TwTJN65Qlo="
     }
   },
   "cacheBootResources": true,
