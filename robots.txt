@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ishear.netlify.app/sitemap.xml
