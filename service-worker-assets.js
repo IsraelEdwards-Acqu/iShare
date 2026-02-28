@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "PJO8j25a",
+  "version": "4Z+6phGE",
   "assets": [
     {
       "hash": "sha256-Z+EyGMcLGd83rR84Q77GYPOwvE4m9y4qg6hQFu9/lmg=",
@@ -166,7 +166,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-e0Rjif0zyRfi5u5AC8PoX+4Tv7/6RcbY6lAU+41HLZA=",
+      "hash": "sha256-vbjI7xpuLcDuY3o6r2hd5cZYjVTms3mJ+AyQ/cIbsHA=",
       "url": "downloads/iShare.exe"
     },
     {
